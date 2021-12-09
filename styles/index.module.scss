@@ -1,0 +1,10 @@
+@import "./_variables.scss";
+
+.h1 {
+  font-size: 60px;
+  color: $green1;
+  text-transform: uppercase;
+
+  text-align: center;
+  letter-spacing: 40px;
+}

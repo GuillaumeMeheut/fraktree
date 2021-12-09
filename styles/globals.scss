@@ -1,6 +1,10 @@
+@import "./_variables.scss";
+
 html,
 body {
-  font-family: -apple-system;
+  font-family: "Oswald", sans-serif;
+  background-color: $black;
+  color: white;
 }
 
 a {
